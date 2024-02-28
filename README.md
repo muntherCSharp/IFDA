@@ -27,3 +27,7 @@ Contributions are welcome! Whether you're interested in improving algorithm perf
 License
 
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
+
+Note:
+
+You can download MICC-F220 or FVC2004 datasets from their website!.
