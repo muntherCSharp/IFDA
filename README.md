@@ -16,7 +16,7 @@ With the increasing prevalence of digital image manipulation and the rise of fak
 
 Usage
 
-Clone the repository: git clone https://github.com/muntherCSharp/image-forgery-detection.git
+Clone the repository: git clone https://github.com/muntherCSharp/IFDA.git
 Install dependencies: pip install -r requirements.txt
 Run the main script: python main.py
 
